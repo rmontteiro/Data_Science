@@ -2,7 +2,7 @@
 ## Content of Data Science Studies
 
 ##### This content was offerd as final evaluation exercises at transdisciplinary project Level 1 in an Associate Degree Course of Data Science. 
-##### The content is composed by 4 diferente activities and the instructions is listed at docx files.
+##### The content is composed by 4 diferente activities and the instructions is listed at docx OR txt files.
 ##### Those files are named according to the order of activitie. Ex: Activ1.docx
 ##### For develop this project was used the folowing technologies: 
 
